@@ -1,3 +1,10 @@
+// <<<<<<< multiplication
+﻿Console.WriteLine(Multiplication(2, 2));
+
+int Multiplication(int a, int b)
+{
+    return a * b;
+}
 Console.WriteLine("This is buns");
 int additionProblem(int num, int num2)
 {
@@ -12,4 +19,5 @@ Console.WriteLine(Subtract(1,1));
 int Subtract(int a, int b)
 {
     return a - b;
+// >>>>>>> main
 }
