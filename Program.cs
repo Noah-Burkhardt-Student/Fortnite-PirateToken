@@ -21,3 +21,8 @@ int Subtract(int a, int b)
     return a - b;
 // >>>>>>> main
 }
+
+int Division(int a, int b)
+{
+    return a / b;
+}
